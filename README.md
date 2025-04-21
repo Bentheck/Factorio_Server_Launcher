@@ -27,12 +27,13 @@ Factorio Server Launcher uses your Factorio website credentials to download and 
 ## Usage
 
 1. **Download** latest release
-2. **Run** `Facto.exe`.  
-3. **Log in** using your Factorio.com email & API token.  
-4. The launcher will:
+2. **Place** `Factorio Server Launcher.exe` in the folder where you want the server installed. (exemple: D:/FactorioServer)
+3. **Run** `Factorio Server Launcher.exe`.  
+4. **Enter** your Factorio.com email & API token.  
+5. The launcher will:
    - Download and install/update Factorio headless server.
    - Launch the server with your selected save file.
-5. **Navigate** through the tabs to:
+6. **Navigate** through the tabs to:
    - **Settings:** map seed, game difficulty, player limits, autosaves.
    - **Control:** start/stop server, manual saves, restart countdown.
    - **Logs:** view real-time server console output.
